@@ -4,12 +4,12 @@
   "description": "",
   "scripts": {
     "start": "node app.js"
-},
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
-    "nodemon": "^1.11.0",
+    "nodemon": "^1.19.4",
     "socket.io": "^2.4.1"
   }
 }
